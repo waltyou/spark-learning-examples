@@ -6,6 +6,6 @@
 
 ## 依赖版本
 
-- spark: 2.3.0
+- Spark: 2.3.0
 - SBT： 0.13.8
 - Scala Version: 2.11.8
