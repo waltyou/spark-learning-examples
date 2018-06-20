@@ -1,0 +1,9 @@
+a,BarackObama,f1:f2
+b,ladygaga,f2:f3
+c,jeresig,f3
+d,justinbieber,f4
+e,tom,f4:f5:f6
+f,matei_zaharia,f6
+g,odersky,f3
+h,jack,f7
+i,anonsys
